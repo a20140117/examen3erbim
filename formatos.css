@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: beige;
+}
+p{
+    height: 30px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}body{
+    background-color: yellowgreen;
+}
